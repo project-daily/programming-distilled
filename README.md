@@ -1,1 +1,1 @@
-# questions-about-webpack
+# Web Distilled
