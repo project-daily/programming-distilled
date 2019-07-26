@@ -6,6 +6,13 @@
 
 - [HTTP](./docs/computer/network/http/toc.md)
 
+## 方法论
+
+### 编程范式
+
+- [面向对象编程]
+- [函数式编程]
+
 ## Web
 
 ### 结构
